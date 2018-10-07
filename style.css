@@ -1,0 +1,54 @@
+body{
+	
+	background-color: powderblue;
+}
+.section-header {
+	color: orange;
+    font-family: verdana;
+    font-size: 200%;
+}
+h1 {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 100%;
+}
+#past-section
+{
+	color: orange;
+    font-family: verdana;
+    }
+#future-section
+{
+	color: green;
+    font-family: verdana;
+    
+}
+.aside-header
+{
+	color: orange;
+    font-family: verdana;
+    font-size: 150%;
+}
+footer 
+{
+	 background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+	font-size: 100%;
+}
+
+
+ol{
+    color: red;
+    font-family: courier;
+    font-size: 100%;
+}
+
+

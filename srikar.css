@@ -1,0 +1,29 @@
+article
+{
+	background-color:red;
+	font-size:12pt;
+	font-family:arial;
+	display:inline;
+}
+.header
+{
+	background-color:pink;
+	font-family:times new roman;
+	border: 10px solid black;
+	font-size:16pt;
+}
+footer{
+	background-color:green;
+}
+.section-header{
+	color: blue;
+}
+#future-section{
+	font-size: 2em;
+}
+#past-section{
+	font-weight: bold;
+}
+.aside-header{
+	background-color: red;
+}
